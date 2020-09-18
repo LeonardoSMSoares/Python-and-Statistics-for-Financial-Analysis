@@ -7,9 +7,13 @@ by The Hong Kong University of Science and Technology
 Course:
 
 01 - Package for Data Analysis
+
 02 - Importing Data
+
 03 - Basic of DataFrame
+
 04 - Generation of Variables
+
 05 - Trading Strategy
 
 
