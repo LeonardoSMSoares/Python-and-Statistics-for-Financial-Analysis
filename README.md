@@ -18,6 +18,11 @@ Week 2 -
 02 - Frequency and Distribution//
 03 - Models of Stock Return//
 
+Week 2 -
+01 - Population and Sample//
+02 - Variation of Sample//
+03 - Hypothesis Testing//
+
 
 Using python:
 
