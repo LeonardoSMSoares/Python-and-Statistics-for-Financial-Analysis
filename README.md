@@ -23,6 +23,13 @@ Week 3 -
 02 - Variation of Sample//
 03 - Hypothesis Testing//
 
+Week 4 -
+01 - Association of Random Variables//
+02 - Simple Linear Regression//
+03 - Diagnostic of Models//
+04 - Multiple Linear Regression//
+05 - Evaluating Strategy Built from Regression Models// 
+
 
 Using python:
 
