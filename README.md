@@ -7,11 +7,11 @@ by The Hong Kong University of Science and Technology
 Course:
 
 Week 1 - 
-01 - Package for Data Analysis//
-02 - Importing Data//
-03 - Basic of DataFrame//
-04 - Generation of Variables//
-05 - Trading Strategy//
+  01 - Package for Data Analysis//
+  02 - Importing Data//
+  03 - Basic of DataFrame//
+  04 - Generation of Variables//
+  05 - Trading Strategy//
 
 Week 2 -
 01 - Outcomes and Random Variables//
