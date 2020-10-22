@@ -6,29 +6,29 @@ by The Hong Kong University of Science and Technology
 
 Course:
 
-Week 1 - 
-  * 01 - Package for Data Analysis//
-  * 02 - Importing Data//
-  * 03 - Basic of DataFrame//
-  * 04 - Generation of Variables//
-  * 05 - Trading Strategy//
+Week 1 
+  * 01 - Package for Data Analysis
+  * 02 - Importing Data
+  * 03 - Basic of DataFrame
+  * 04 - Generation of Variables
+  * 05 - Trading Strategy
 
-Week 2 -
-01 - Outcomes and Random Variables//
-02 - Frequency and Distribution//
-03 - Models of Stock Return//
+Week 2
+* 01 - Outcomes and Random Variables
+* 02 - Frequency and Distribution
+* 03 - Models of Stock Return
 
-Week 3 -
-01 - Population and Sample//
-02 - Variation of Sample//
-03 - Hypothesis Testing//
+Week 3
+* 01 - Population and Sample
+* 02 - Variation of Sample
+* 03 - Hypothesis Testing
 
-Week 4 -
-01 - Association of Random Variables//
-02 - Simple Linear Regression//
-03 - Diagnostic of Models//
-04 - Multiple Linear Regression//
-05 - Evaluating Strategy Built from Regression Models// 
+Week 4
+* 01 - Association of Random Variables
+* 02 - Simple Linear Regression
+* 03 - Diagnostic of Models
+* 04 - Multiple Linear Regression
+* 05 - Evaluating Strategy Built from Regression Models 
 
 
 Using python:
